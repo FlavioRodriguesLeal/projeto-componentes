@@ -19,9 +19,9 @@ import { CardRoxoButtonComponent } from '../card-roxo-button/card-roxo-button.co
   ],
   exports: [
     CardComponent,
-    CardRoxoComponent,
-    CardButtonComponent,
-    CardRoxoButtonComponent
+    CardRoxoComponent//,
+    //CardButtonComponent,
+    //CardRoxoButtonComponent
   ]
 })
 export class CardsModule { }
